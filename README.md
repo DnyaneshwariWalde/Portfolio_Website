@@ -19,7 +19,7 @@ Welcome to my portfolio website project! This website showcases my skills, proje
 
 ## How to Explore
 
-1. Visit the live website [here](https://your-website-link.com).
+1. Visit the live website [here](https://dnyaneshwariwalde.github.io/Portfolio_Website/).
 2. Navigate through the sections to learn about me, my projects, and blogs.
 3. Interact with project descriptions and links to view detailed project pages.
 4. Download my resume directly from the website.
